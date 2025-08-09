@@ -110,7 +110,7 @@ This repository contains detailed notes of **(ISC)² Certified in Cybersecurity 
 ---
 
 ## Conclusion
-This repository provides a comprehensive set of notes on **(ISC)² Certified in Cybersecurity (CC)** exam preparation. By reviewing these notes and practicing the concepts, you’ll build a strong foundation in cybersecurity and be ready to take on real-world security challenges. 
+This repository provides a comprehensive set of notes on **(ISC)² Certified in Cybersecurity (CC)** exam preparation.
 
 Happy studying and best of luck on your certification journey!
 
